@@ -1,0 +1,7 @@
+.Hero {
+    height: 350px;
+    background-image: url("../../public/img/pink-desk.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  } 
