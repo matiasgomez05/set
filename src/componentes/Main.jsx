@@ -1,7 +1,7 @@
 function Main(){
     return(
         <main>
-            <h1>Bienvenido</h1>
+            <h1>Bienvenido a Sueños en Telas</h1>
 
             <article>
                 <h2>Lorem ipsum</h2>
